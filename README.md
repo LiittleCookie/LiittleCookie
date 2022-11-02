@@ -1,7 +1,7 @@
 👋 Hi, I’m @LiittleCookie
 
 - 👀 I’m interested development
-- 🌱 I’m currently working on SmartPHP 
+- 🌱 I’m currently working on Alphasia, Ewelit, ExploitManager 
 - 🏠 From France 
 
 <!---
